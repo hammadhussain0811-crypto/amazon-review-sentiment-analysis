@@ -269,7 +269,7 @@ Example response:
 
 B.Tech | Artificial Intelligence and Machine Learning
 
-GitHub: [Your GitHub Profile](https://github.com/hammadhussain0811-crypto)
+GitHub:(https://github.com/hammadhussain0811-crypto)
 
 ---
 
